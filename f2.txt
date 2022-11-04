@@ -2,3 +2,4 @@ testing how to add multiple files
 now modifying it for testing log command
 Db fix
 checking diff command now
+adding some more lines
