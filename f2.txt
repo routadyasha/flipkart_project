@@ -1,1 +1,2 @@
 testing how to add multiple files
+now modifying it for testing log command
