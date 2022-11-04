@@ -4,3 +4,6 @@ Db fix
 checking diff command now
 adding some more lines
 wokring all over again
+checking delete command
+adding some more command
+not able to checking out
